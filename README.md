@@ -1,10 +1,9 @@
 # webportal-project
 Projekt iz kolegija Programiranje web aplikacija
 
-Za potrebe rada ovog projekta potrebno je koristiti aplikaciju XAMPP ili neku alternativu.
+Za potrebe rada ovog projekta potrebno je koristiti XAMPP ili neku alternativu.
 
 Prije svega potrebno je napraviti bazu podataka imena "pwa" u sučelju PHPMyAdmin.
-
 Tek nakon kreacije baze podataka u sučelju PHPMyAdmin, potrebno je preuzeti i importati tablice podataka; "korisnik.sql" te "user.sql" unutar baze podataka imena "pwa".
 
 Projekt se pokreće koristeći localhost HTTP header te je početna stranica index.php.
