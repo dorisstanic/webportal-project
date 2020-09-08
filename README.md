@@ -1,5 +1,6 @@
 # webportal-project
 Projekt iz kolegija Programiranje web aplikacija
+
 Projekt: News Web Portal
 
 Za potrebe rada ovog projekta potrebno je koristiti Apache server - XAMPP ili neku alternativu.
