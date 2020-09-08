@@ -21,6 +21,7 @@ Ukoliko korisnik ne želi napraviti račun na stranici registracija.php, može k
 Korišten je HTML, CSS, Bootstrap, PHP, JavaScript, SQL.
 
 Hvala na razumijevanju!
+
 Doris Stanić
 
 
