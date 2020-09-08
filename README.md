@@ -11,7 +11,7 @@ Tek nakon kreacije baze podataka u sučelju PHPMyAdmin, potrebno je preuzeti i i
 Projekt se, nakon importa i spremanja baze podataka, pokreće koristeći localhost HTTP header te je početna stranica index.php.
 
 Primjer pokretanja projekta nakon extractanja datotke (.zip/.rar) u 'C:\xampp\htdocs' folder:
-http://localhost:80/XMLproject/index.php
+http://localhost:80/webportal-project/index.php
 
 Ukoliko korisnik ne želi napraviti račun na stranici registracija.php, može koristiti sljedeće informacije za korisnika sa pravima administratora te za korisnika bez prava administratora:
 
